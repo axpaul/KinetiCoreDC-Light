@@ -5,8 +5,8 @@
 	(uuid "826b973c-d630-47f0-b383-480cf4f4d6c4")
 	(paper "A4")
 	(title_block
-		(title "KinetiCoreDC - Power ")
-		(date "2026-11-01")
+		(title "KinetiCoreDC - Light - Power ")
+		(date "2026-11-24")
 		(rev "V°1")
 		(company "BerryRocket")
 		(comment 1 "Paul Miailhe")
